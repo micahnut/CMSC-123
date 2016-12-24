@@ -1,0 +1,16 @@
+MPA4 - Command Line Simulator
+
+Tree-structured directory
+
+mkdir - make directory
+rmdir - remove directory
+cd - change directory
+> - create file
+>> - edit file 
+rm - remove file
+rn - rename file/directory
+mv - transfer file from one directory to another
+cp - copy files
+ls - display all files
+show - show contents of a file
+whereis - search where the file is located
